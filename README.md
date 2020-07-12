@@ -10,7 +10,7 @@ Between semesters, I've done software development at [Enbridge][enbridge], [PCL 
 
 #### See also
 
-My personal website is [dlallan.com][dlallan]
+My personal website is below my profile picture on the left 👈
 
 For employment information and work history, check out my [LinkedIn profile][linkedin].
 
@@ -19,6 +19,5 @@ For employment information and work history, check out my [LinkedIn profile][lin
 [ualberta]: https://www.ualberta.ca/
 [enbridge]: https://www.enbridge.com/
 [pcl]: https://www.pcl.com/Pages/
-[dlallan]: https://dlallan.com/
 [dms]: https://www.dmsiworks.com/
 [linkedin]: https://www.linkedin.com/in/dillonlallan/
