@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hello!
 
-<!--
-**dlallan/dlallan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Dillon. Welcome to my GitHub page 😃
 
-Here are some ideas to get you started:
+#### Current Status
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Right now, I'm a third year Computer Engineering student at the [University of Alberta][ualberta], Canada (class of 2022).
+
+Between semesters, I've done software development at [Enbridge][enbridge], [PCL Constructors][pcl], and [DMS Insight Works][dms].
+
+#### See also
+
+My personal website is [dlallan.com][dlallan]
+
+For employment information and work history, check out my [LinkedIn profile][linkedin].
+
+
+<!-- links -->
+[ualberta]: https://www.ualberta.ca/
+[enbridge]: https://www.enbridge.com/
+[pcl]: https://www.pcl.com/Pages/
+[dlallan]: https://dlallan.com/
+[dms]: https://www.dmsiworks.com/
+[linkedin]: https://www.linkedin.com/in/dillonlallan/
