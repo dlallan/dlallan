@@ -1,3 +1,5 @@
+<img src="./IMG_1993[edit].png" alt="Horsethief Canyon" height="100vw"/>
+
 ### Hello!
 
 My name is Dillon. Welcome to my GitHub page 😃
