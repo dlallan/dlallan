@@ -1,4 +1,4 @@
-<img src="./IMG_1993[small].png" alt="Horsethief Canyon" width="100%"/>
+<img src="IMG_1993[small].png" alt="Horsethief Canyon" width="100%"/>
 
 ### Hello!
 
