@@ -6,7 +6,7 @@ My name is Dillon. Welcome to my GitHub page 😃
 
 #### Current Status
 
-Right now, I'm a third year Computer Engineering student at the [University of Alberta][ualberta], Canada (class of 2022).
+Right now, I'm a Computer Engineering student at the [University of Alberta][ualberta], Canada (class of 2022).
 
 Between semesters, I've done software development at [Enbridge][enbridge], [PCL Constructors][pcl], and [DMS Insight Works][dms].
 
